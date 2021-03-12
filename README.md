@@ -1,2 +1,2 @@
 # image-analyzer-jboss
-JBoss app to persist images and get their metadata
+JBoss app to persist compressed images and get their metadata
